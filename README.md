@@ -5,10 +5,10 @@ This project investigates the potential to predict the MET (Metabolic Equivalent
 
 ### Key Components:
 
-1. Data Wrangling & Cleaning: Processed and refined the dataset by creating new columns, handling missing values, and removing redundant data.
-2. Feature Selection: Used methods such as recursive feature elimination and cross-validation to identify significant features that influence MET prediction.
-3. Modeling & Evaluation: Developed a linear regression model, analyzed its performance using R-squared, AIC, and MSE, and fine-tuned the model based on significant features.
-4. Recommendations: Based on the findings, a software tool was developed to predict MET and track activity intensity, with recommendations for expanding the dataset and focusing on demographic groups for future analysis.
+1. *Data Wrangling & Cleaning:* Processed and refined the dataset by creating new columns, handling missing values, and removing redundant data.
+2. *Feature Selection:* Used methods such as recursive feature elimination and cross-validation to identify significant features that influence MET prediction.
+3. *Modeling & Evaluation:* Developed a linear regression model, analyzed its performance using R-squared, AIC, and MSE, and fine-tuned the model based on significant features.
+4. *Recommendations:* Based on the findings, a software tool was developed to predict MET and track activity intensity, with recommendations for expanding the dataset and focusing on demographic groups for future analysis.
 
 ### Tools and Libraries:
 - Python
